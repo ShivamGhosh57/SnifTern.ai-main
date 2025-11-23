@@ -1,14 +1,7 @@
 # SnifTern.ai - Advanced Internship Fraud Detection Platform
 
-**© 2025 SnifTern.ai. Developed by Team BinaryExecutor's using cutting-edge AI and machine learning technologies.**
 
-# 🏆 Project Achievements
 
-✨ This project proudly secured **1st Place** 🥇 
-at the **BITS 2 BYTES Tech Fest** of **Bengal Institute of Technology, Kolkata** 🎉  
-
-🎓 Celebrating **25 Glorious Years** of excellence at BIT,  
-this achievement marks a milestone for innovation, teamwork, and dedication 🚀
 
 ![Screenshot 1](images/s1.png)
 
