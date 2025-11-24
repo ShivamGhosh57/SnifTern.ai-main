@@ -1615,6 +1615,10 @@ def get_verification_history(identifier):
             'success': False,
             'error': str(e)
         }), 500
+# Vercel serverless entrypoint
+def handler(event, context):
+    return app(event, context)
+        
 
 if __name__ == '__main__':
     app.run(debug=True, host='0.0.0.0', port=5000) 
